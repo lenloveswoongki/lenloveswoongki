@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Unity Engine</b>
-  - [Arrayito Escapa del Museo](https://github.com/joshmadakor1/Sentinel-Lab](https://www.newgrounds.com/portal/view/999453)
+  - [Arrayito Escapa del Museo](https://www.newgrounds.com/portal/view/999453)
   - [Grappy Slug](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 [instagram]: https://www.instagram.com/val.en_wk/
