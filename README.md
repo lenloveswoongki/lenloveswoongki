@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hey, I'm Valentin! <br/><a href="https://darklordvalen.newgrounds.com/">Game Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">2D Artist</a></h1>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Unity Engine</b>
+  - [Arrayito Escapa del Museo](https://github.com/joshmadakor1/Sentinel-Lab](https://www.newgrounds.com/portal/view/999453)
+  - [Grappy Slug](https://github.com/joshmadakor1/Jwipe.PowerShell)
+
+[instagram]: https://www.instagram.com/val.en_wk/
+[linkedin]: https://www.linkedin.com/in/valentin-maximo-perez-villalba-36abb3332/
+[WhatsApp]: 1130776659
 <!--
-**lenloveswoongki/lenloveswoongki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
