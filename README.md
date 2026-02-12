@@ -1,4 +1,4 @@
-<h1>Hey, I'm Valentin! <br/><a href="https://darklordvalen.newgrounds.com/">Game Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">2D Artist</a></h1>
+<h1>Hey, I'm Valentin! Game Designer
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
