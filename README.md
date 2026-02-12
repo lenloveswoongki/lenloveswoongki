@@ -4,7 +4,7 @@
 
 - <b>Unity Engine</b>
   - [Arrayito Escapa del Museo](https://www.newgrounds.com/portal/view/999453)(Programmer, Artist, and Designer) >> [Repository](https://github.com/lenloveswoongki/Arrayito-en-el-Museo)
-  - [Grappy Slug()](https://www.newgrounds.com/portal/view/1000410)(Programmer, Artist, and Designer) >> [Repository](https://github.com/lenloveswoongki/SlugGame)
+  - [Grappy Slug](https://www.newgrounds.com/portal/view/1000410)(Programmer, Artist, and Designer) >> [Repository](https://github.com/lenloveswoongki/SlugGame)
   - [Miasma](https://globalgamejam.org/games/2026/phantommask-6)(Gameplay Programmer, UI/UX) >> [Repository](https://github.com/Nikkie-game-dev/GGJam-26)
   - [Spanish Learning Game](https://lenloveswoongki.itch.io/spanish-learning-game-desktop)(Programmer, UI/UX) >> Source code not avaliable (Customer license)
 
