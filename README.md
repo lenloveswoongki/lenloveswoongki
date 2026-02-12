@@ -9,8 +9,8 @@
   - [Spanish Learning Game](https://lenloveswoongki.itch.io/spanish-learning-game-desktop)(Programmer, UI/UX) >> Source code not avaliable (Customer license)
 
 - <b>Artist</b>
- - [2D Art](https://darklordvalen.newgrounds.com/art)
- - [3D Art](https://sketchfab.com/valentin.perez)
+  - [2D Art](https://darklordvalen.newgrounds.com/art)
+  - [3D Art](https://sketchfab.com/valentin.perez)
 
 [instagram]: https://www.instagram.com/val.en_wk/
 [linkedin]: https://www.linkedin.com/in/valentin-maximo-perez-villalba-36abb3332/
